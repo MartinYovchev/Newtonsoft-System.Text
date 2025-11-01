@@ -1,0 +1,21 @@
+{
+  "Id": 100,
+  "Name": "\u0418\u0432\u0430\u043D \u0418\u0432\u0430\u043D\u043E\u0432",
+  "Email": "ivan@test.com",
+  "BirthDate": "1990-01-01T00:00:00",
+  "IsActive": true,
+  "Salary": null,
+  "Skills": [],
+  "Address": null,
+  "Manager": {
+    "Id": 101,
+    "Name": "\u041F\u0435\u0442\u044A\u0440 \u041F\u0435\u0442\u0440\u043E\u0432",
+    "Email": "petar@test.com",
+    "BirthDate": "1985-05-15T00:00:00",
+    "IsActive": true,
+    "Salary": null,
+    "Skills": [],
+    "Address": null,
+    "Manager": null
+  }
+}

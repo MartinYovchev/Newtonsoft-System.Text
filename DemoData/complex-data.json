@@ -1,0 +1,40 @@
+{
+  "persons": [
+    {
+      "id": 10,
+      "name": "Стефан Георгиев",
+      "email": "stefan@example.com",
+      "birthDate": "1987-04-12T00:00:00",
+      "isActive": true,
+      "salary": 5000.0,
+      "skills": ["Leadership", "C#", "Architecture"],
+      "address": {
+        "street": "ул. Оборище 5",
+        "city": "София",
+        "country": "България"
+      },
+      "manager": null
+    },
+    {
+      "id": 11,
+      "name": "Камелия Петрова",
+      "email": "kamelia@example.com",
+      "birthDate": "1993-09-25T00:00:00",
+      "isActive": true,
+      "salary": 3500.0,
+      "skills": ["C#", "ASP.NET", "SQL"],
+      "address": {
+        "street": "бул. Драган Цанков 23",
+        "city": "София",
+        "country": "България"
+      },
+      "manager": {
+        "id": 10,
+        "name": "Стефан Георгиев",
+        "email": "stefan@example.com"
+      }
+    }
+  ],
+  "generatedAt": "2024-11-01T15:30:00",
+  "version": "1.0"
+}

@@ -1,0 +1,11 @@
+/Users/martinyovchev/JsonComparison/JsonComparison.Common/bin/Release/net9.0/JsonComparison.Common.deps.json
+/Users/martinyovchev/JsonComparison/JsonComparison.Common/bin/Release/net9.0/JsonComparison.Common.dll
+/Users/martinyovchev/JsonComparison/JsonComparison.Common/bin/Release/net9.0/JsonComparison.Common.pdb
+/Users/martinyovchev/JsonComparison/JsonComparison.Common/obj/Release/net9.0/JsonComparison.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinyovchev/JsonComparison/JsonComparison.Common/obj/Release/net9.0/JsonComparison.Common.AssemblyInfoInputs.cache
+/Users/martinyovchev/JsonComparison/JsonComparison.Common/obj/Release/net9.0/JsonComparison.Common.AssemblyInfo.cs
+/Users/martinyovchev/JsonComparison/JsonComparison.Common/obj/Release/net9.0/JsonComparison.Common.csproj.CoreCompileInputs.cache
+/Users/martinyovchev/JsonComparison/JsonComparison.Common/obj/Release/net9.0/JsonComparison.Common.dll
+/Users/martinyovchev/JsonComparison/JsonComparison.Common/obj/Release/net9.0/refint/JsonComparison.Common.dll
+/Users/martinyovchev/JsonComparison/JsonComparison.Common/obj/Release/net9.0/JsonComparison.Common.pdb
+/Users/martinyovchev/JsonComparison/JsonComparison.Common/obj/Release/net9.0/ref/JsonComparison.Common.dll

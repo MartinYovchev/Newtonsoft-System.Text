@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonComparison.Newtonsoft", "JsonComparison.Newtonsoft\JsonComparison.Newtonsoft.csproj", "{D38DFDC0-935F-472F-BA64-F537AEE74377}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonComparison.SystemText", "JsonComparison.SystemText\JsonComparison.SystemText.csproj", "{13052377-9C66-48BF-85F4-68EC8F562228}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonComparison.Benchmarks", "JsonComparison.Benchmarks\JsonComparison.Benchmarks.csproj", "{CF7E5A6D-220F-492E-93E0-D0DD598136CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonComparison.Common", "JsonComparison.Common\JsonComparison.Common.csproj", "{15401504-B51D-4469-8519-14C6E9C300DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D38DFDC0-935F-472F-BA64-F537AEE74377}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D38DFDC0-935F-472F-BA64-F537AEE74377}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D38DFDC0-935F-472F-BA64-F537AEE74377}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D38DFDC0-935F-472F-BA64-F537AEE74377}.Debug|x64.Build.0 = Debug|Any CPU
+		{D38DFDC0-935F-472F-BA64-F537AEE74377}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D38DFDC0-935F-472F-BA64-F537AEE74377}.Debug|x86.Build.0 = Debug|Any CPU
+		{D38DFDC0-935F-472F-BA64-F537AEE74377}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D38DFDC0-935F-472F-BA64-F537AEE74377}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D38DFDC0-935F-472F-BA64-F537AEE74377}.Release|x64.ActiveCfg = Release|Any CPU
+		{D38DFDC0-935F-472F-BA64-F537AEE74377}.Release|x64.Build.0 = Release|Any CPU
+		{D38DFDC0-935F-472F-BA64-F537AEE74377}.Release|x86.ActiveCfg = Release|Any CPU
+		{D38DFDC0-935F-472F-BA64-F537AEE74377}.Release|x86.Build.0 = Release|Any CPU
+		{13052377-9C66-48BF-85F4-68EC8F562228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13052377-9C66-48BF-85F4-68EC8F562228}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13052377-9C66-48BF-85F4-68EC8F562228}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{13052377-9C66-48BF-85F4-68EC8F562228}.Debug|x64.Build.0 = Debug|Any CPU
+		{13052377-9C66-48BF-85F4-68EC8F562228}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{13052377-9C66-48BF-85F4-68EC8F562228}.Debug|x86.Build.0 = Debug|Any CPU
+		{13052377-9C66-48BF-85F4-68EC8F562228}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13052377-9C66-48BF-85F4-68EC8F562228}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13052377-9C66-48BF-85F4-68EC8F562228}.Release|x64.ActiveCfg = Release|Any CPU
+		{13052377-9C66-48BF-85F4-68EC8F562228}.Release|x64.Build.0 = Release|Any CPU
+		{13052377-9C66-48BF-85F4-68EC8F562228}.Release|x86.ActiveCfg = Release|Any CPU
+		{13052377-9C66-48BF-85F4-68EC8F562228}.Release|x86.Build.0 = Release|Any CPU
+		{CF7E5A6D-220F-492E-93E0-D0DD598136CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF7E5A6D-220F-492E-93E0-D0DD598136CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF7E5A6D-220F-492E-93E0-D0DD598136CA}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{CF7E5A6D-220F-492E-93E0-D0DD598136CA}.Debug|x64.Build.0 = Debug|Any CPU
+		{CF7E5A6D-220F-492E-93E0-D0DD598136CA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CF7E5A6D-220F-492E-93E0-D0DD598136CA}.Debug|x86.Build.0 = Debug|Any CPU
+		{CF7E5A6D-220F-492E-93E0-D0DD598136CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF7E5A6D-220F-492E-93E0-D0DD598136CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF7E5A6D-220F-492E-93E0-D0DD598136CA}.Release|x64.ActiveCfg = Release|Any CPU
+		{CF7E5A6D-220F-492E-93E0-D0DD598136CA}.Release|x64.Build.0 = Release|Any CPU
+		{CF7E5A6D-220F-492E-93E0-D0DD598136CA}.Release|x86.ActiveCfg = Release|Any CPU
+		{CF7E5A6D-220F-492E-93E0-D0DD598136CA}.Release|x86.Build.0 = Release|Any CPU
+		{15401504-B51D-4469-8519-14C6E9C300DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15401504-B51D-4469-8519-14C6E9C300DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15401504-B51D-4469-8519-14C6E9C300DE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{15401504-B51D-4469-8519-14C6E9C300DE}.Debug|x64.Build.0 = Debug|Any CPU
+		{15401504-B51D-4469-8519-14C6E9C300DE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{15401504-B51D-4469-8519-14C6E9C300DE}.Debug|x86.Build.0 = Debug|Any CPU
+		{15401504-B51D-4469-8519-14C6E9C300DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15401504-B51D-4469-8519-14C6E9C300DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15401504-B51D-4469-8519-14C6E9C300DE}.Release|x64.ActiveCfg = Release|Any CPU
+		{15401504-B51D-4469-8519-14C6E9C300DE}.Release|x64.Build.0 = Release|Any CPU
+		{15401504-B51D-4469-8519-14C6E9C300DE}.Release|x86.ActiveCfg = Release|Any CPU
+		{15401504-B51D-4469-8519-14C6E9C300DE}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

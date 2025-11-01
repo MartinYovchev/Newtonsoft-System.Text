@@ -1,0 +1,119 @@
+{
+  "persons": [
+    {
+      "id": 1,
+      "name": "Иван Петров",
+      "email": "ivan.petrov@example.com",
+      "birthDate": "1990-05-15T00:00:00",
+      "isActive": true,
+      "salary": 2500.5,
+      "skills": ["C#", "SQL", "JavaScript"],
+      "address": {
+        "street": "ул. Витоша 10",
+        "city": "София",
+        "country": "България",
+        "postalCode": "1000"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Мария Иванова",
+      "email": "maria.ivanova@example.com",
+      "birthDate": "1985-08-22T00:00:00",
+      "isActive": true,
+      "salary": 3200.0,
+      "skills": ["Java", "Python", "Docker"],
+      "address": {
+        "street": "бул. Черни връх 47",
+        "city": "София",
+        "country": "България",
+        "postalCode": "1407"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Георги Стоянов",
+      "email": "georgi.stoyanov@example.com",
+      "birthDate": "1992-12-03T00:00:00",
+      "isActive": false,
+      "salary": null,
+      "skills": ["PHP", "MySQL"],
+      "address": {
+        "street": "ул. Г.С. Раковски 125",
+        "city": "Пловдив",
+        "country": "България",
+        "postalCode": "4000"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Елена Димитрова",
+      "email": "elena.dimitrova@example.com",
+      "birthDate": "1988-03-30T00:00:00",
+      "isActive": true,
+      "salary": 4100.75,
+      "skills": ["C#", ".NET", "Azure", "React"],
+      "address": {
+        "street": "ул. Цар Иван Асен II 15",
+        "city": "Варна",
+        "country": "България",
+        "postalCode": "9000"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Николай Михайлов",
+      "email": "nikolay.mihaylov@example.com",
+      "birthDate": "1995-07-18T00:00:00",
+      "isActive": true,
+      "salary": 2800.0,
+      "skills": ["JavaScript", "TypeScript", "Node.js", "MongoDB"],
+      "address": {
+        "street": "бул. България 88",
+        "city": "София",
+        "country": "България",
+        "postalCode": "1680"
+      }
+    }
+  ],
+  "products": [
+    {
+      "id": 101,
+      "name": "Laptop Dell XPS 15",
+      "price": 2499.99,
+      "category": "Electronics",
+      "createdDate": "2024-01-15T10:30:00",
+      "metadata": {
+        "brand": "Dell",
+        "warranty": 24,
+        "inStock": true
+      }
+    },
+    {
+      "id": 102,
+      "name": "Тениска Adidas",
+      "price": 45.5,
+      "category": "Clothing",
+      "createdDate": "2024-02-20T14:15:00",
+      "metadata": {
+        "size": "L",
+        "color": "blue",
+        "material": "cotton"
+      }
+    },
+    {
+      "id": 103,
+      "name": "Книга: C# in Depth",
+      "price": 59.99,
+      "category": "Books",
+      "createdDate": "2024-03-10T09:00:00",
+      "metadata": {
+        "author": "Jon Skeet",
+        "pages": 528,
+        "isbn": "978-1617294532"
+      }
+    }
+  ],
+  "generatedAt": "2024-11-01T12:00:00",
+  "version": "1.0"
+}

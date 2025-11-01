@@ -1,0 +1,28 @@
+{
+    // FOR DEBUGGING
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Newtonsoft Demo",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build-newtonsoft",
+      "program": "${workspaceFolder}/JsonComparison.Newtonsoft/bin/Debug/net8.0/JsonComparison.Newtonsoft.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}/JsonComparison.Newtonsoft",
+      "console": "integratedTerminal",
+      "stopAtEntry": false
+    },
+    {
+      "name": "System.Text.Json Demo",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build-systemtext",
+      "program": "${workspaceFolder}/JsonComparison.SystemText/bin/Debug/net8.0/JsonComparison.SystemText.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}/JsonComparison.SystemText",
+      "console": "integratedTerminal",
+      "stopAtEntry": false
+    }
+  ]
+}
